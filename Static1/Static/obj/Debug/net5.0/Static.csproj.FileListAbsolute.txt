@@ -1,0 +1,16 @@
+C:\Users\Omer\Desktop\StaticHomework\Static1\Static\obj\Debug\net5.0\Static.csproj.AssemblyReference.cache
+C:\Users\Omer\Desktop\StaticHomework\Static1\Static\obj\Debug\net5.0\Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\Desktop\StaticHomework\Static1\Static\obj\Debug\net5.0\Static.AssemblyInfoInputs.cache
+C:\Users\Omer\Desktop\StaticHomework\Static1\Static\obj\Debug\net5.0\Static.AssemblyInfo.cs
+C:\Users\Omer\Desktop\StaticHomework\Static1\Static\obj\Debug\net5.0\Static.csproj.CoreCompileInputs.cache
+C:\Users\Omer\Desktop\StaticHomework\Static1\Static\bin\Debug\net5.0\Static.exe
+C:\Users\Omer\Desktop\StaticHomework\Static1\Static\bin\Debug\net5.0\Static.deps.json
+C:\Users\Omer\Desktop\StaticHomework\Static1\Static\bin\Debug\net5.0\Static.runtimeconfig.json
+C:\Users\Omer\Desktop\StaticHomework\Static1\Static\bin\Debug\net5.0\Static.runtimeconfig.dev.json
+C:\Users\Omer\Desktop\StaticHomework\Static1\Static\bin\Debug\net5.0\Static.dll
+C:\Users\Omer\Desktop\StaticHomework\Static1\Static\bin\Debug\net5.0\Static.pdb
+C:\Users\Omer\Desktop\StaticHomework\Static1\Static\obj\Debug\net5.0\Static.dll
+C:\Users\Omer\Desktop\StaticHomework\Static1\Static\obj\Debug\net5.0\refint\Static.dll
+C:\Users\Omer\Desktop\StaticHomework\Static1\Static\obj\Debug\net5.0\Static.pdb
+C:\Users\Omer\Desktop\StaticHomework\Static1\Static\obj\Debug\net5.0\Static.genruntimeconfig.cache
+C:\Users\Omer\Desktop\StaticHomework\Static1\Static\obj\Debug\net5.0\ref\Static.dll
